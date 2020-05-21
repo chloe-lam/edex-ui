@@ -67,7 +67,7 @@
       "icon": "media/linuxIcons"
     },
     "appImage": {
-      "artifactName": "eDEX-UI Linux (${arch}).AppImage"
+      "artifactName": "Buzzinga Linux (${arch}).AppImage"
     },
     "mac": {
       "target": [
@@ -82,7 +82,7 @@
       "icon": "media/mamba.icns"
     },
     "dmg": {
-      "artifactName": "buzzinga.dmg"
+      "artifactName": "Buzzinga.dmg"
     },
     "win": {
       "target": [
@@ -97,7 +97,7 @@
       "icon": "media/icon.ico"
     },
     "nsis": {
-      "artifactName": "buzzinga Windows Installer.exe",
+      "artifactName": "Buzzinga Windows Installer.exe",
       "oneClick": true,
       "deleteAppDataOnUninstall": true
     }
