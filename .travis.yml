@@ -37,7 +37,7 @@ deploy:
   file:
     - "dist/Buzzinga Linux (i386).AppImage"
     - "dist/Buzzinga Linux (x86_64).AppImage"
-    - "dist/Buzzinga MacOS Image.dmg"
+    - "dist/Buzzinga.dmg"
     - "dist/Buzzinga Windows Installer.exe"
   options:
     draft: true
